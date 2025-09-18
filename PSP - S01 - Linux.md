@@ -79,6 +79,9 @@ ps -lax
 # -l listado
 # -a ocultos
 # -x
+
+# localizar
+ps -lax | grep tty
 ```
     
 9. Muestra la jerarquía de procesos en forma de árbol.
@@ -88,7 +91,7 @@ pstree
     
 10. Lanza el comando `ping` contra `google.com` en segundo plano (&) y obtén su identificador de proceso (PID).
 ```bash
-
+ping google.com
 ```
     
 11. Finaliza el proceso de Firefox usando su PID.
