@@ -128,7 +128,7 @@ history
 
 2. Configura estos cambios para que sean permantentes
 ```bash
-
+uname -a
 ```
 
 ---
@@ -137,17 +137,17 @@ history
 
 1. Muestra toda la información de tu sistema operativo y kernel.
 ```bash
-
+uname -r
 ```
     
 2. Averigua únicamente la versión del kernel.
 ```bash
-
+df -h
 ```
     
 3. Comprueba el espacio en disco disponible.
 ```bash
-
+du -sh /etc
 ```
     
 4. Calcula cuánto espacio ocupa la carpeta `/etc`.
