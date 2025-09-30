@@ -19,49 +19,49 @@
 ## 3. Control y libertad del usuario  
 
 - **No cumple:**  
-  - No hay opción para deshacer acciones dentro de los formularios, lo que puede frustrar si se comete un error.
+  - No hay opción para deshacer acciones dentro de los formularios, lo que puede molestarle a los usuarios.
 
 ---
 
 ## 4. Consistencia y estándares 
 
 - **Cumple:**  
-  - Los iconos son reconocibles, como la lupa para buscar, lo que facilita la navegación.
+  - Los iconos son grandes y reconocibles, como la lupa para buscar, lo que facilita navegar en la página.
 
 ---
 
 ## 5. Prevención de errores  
 
 - **No cumple:**  
-  - Si el texto menciona que hay que adjuntar un archivo, el sistema no avisa si se intenta enviar el formulario sin adjuntarlo.
+  - Si el texto menciona que hay que adjuntar un archivo el sistema no avisa si se intenta enviar el formulario sin haberlo adjuntado.
 
 ---
 
 ## 6. Reconocer en lugar de recordar  
 
 - **No cumple:**  
-  - Algunas funciones importantes están escondidas en menús poco intuitivos, lo que complica su uso.
+  - Algunas funciones importantes están escondidas en menús bastante escondidos por lo que buscar cosas se complica bastante.
 
 ---
 
 ## 7. Flexibilidad y eficiencia de uso  
 
 - **Cumple:**  
-  - Hay accesos rápidos y atajos que ayudan a los usuarios frecuentes a moverse más rápido.
+  - Hay accesos rápidos y atajos que ayudan a los usuarios a moverse más rápido por la web.
 
 ---
 
 ## 8. Estética y diseño minimalista  
 
-- **Cumple:**  
-  - El diseño es limpio, con los elementos bien distribuidos y sin ruido visual.
+- **No cumple:**  
+  - Hay mucha cantadidad de texto que puede confundir al usuario.
 
 ---
 
 ## 9. Ayuda a reconocer, diagnosticar y recuperarse de errores  
 
 - **No cumple:**  
-  - Los errores que aparecen son genéricos y no explican qué hacer para resolverlos.
+  - Los errores que aparecen muy generales y no explican qué hacer para resolverlos.
 
 ---
 
@@ -70,7 +70,7 @@
 - **Cumple:**  
   - Hay una sección de preguntas frecuentes (FAQ) con información útil.  
 - **No cumple:**  
-  - En campos complejos de formularios no hay ayuda contextual, lo que puede generar dudas.
+  - En campos complejos de formularios no hay ayuda por lo que puede generar dudas.
 
 ---
 
