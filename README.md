@@ -81,9 +81,9 @@ Enlazo una nota al pie[^1]
 
 Enlazo otra nota al pie [^nota]
 
-[^1]Esta es la nota al pie
+[^1]: Esta es la nota al pie
 
-[^1]Esta es otra nota al pie
+## Tablas
 
 | Columna 1 | Columna 2 | Columna 3 |
 | :--- | :---: | ---: |
@@ -102,7 +102,7 @@ Enlazo otra nota al pie [^nota]
   ```
 </details>
 
-
+## Diagrama de flujo
 ```mermaid
 graph TD;
   A-->B;
