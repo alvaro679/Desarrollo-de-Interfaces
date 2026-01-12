@@ -1,5 +1,3 @@
-# Proyecto: Programación de Servicios y Procesos (PSP)
-
 ## 🏗️ Arquitectura
 * **Cliente (Python):** Utiliza Sockets. PSP (Programación de Servicios y Procesos).
 * **Protocolo:** TCP - IP.
