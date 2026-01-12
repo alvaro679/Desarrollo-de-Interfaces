@@ -1,4 +1,4 @@
-## 🏗️ Arquitectura
+## Arquitectura
 * **Cliente (Python):** Utiliza Sockets. PSP (Programación de Servicios y Procesos).
 * **Protocolo:** TCP - IP.
 * **Servidor (Java):** PSD (Programación de Servicios y Procesos).
@@ -8,7 +8,7 @@
 
 ---
 
-## 📋 Definición
+## Definición
 
 | Requisitos | Funcionalidades (Capacidades) | No Funcionales (Tecnologías) |
 | :--- | :--- | :--- |
@@ -30,7 +30,7 @@
 
 ---
 
-## ✉️ Esquema de Mensaje
+## Esquema de Mensaje
 * **Formato:** `Timestamp + usuario + "Mensaje"`
 * **Timestamp:** `AAAA MM DD HH MM SS`
 
@@ -39,7 +39,7 @@ Una entrada de datos que pasa por un bloque de **"Cripto"** y sale como un **"Pa
 
 ---
 
-## ✅ Tareas
+## Tareas
 - [ ] Investigar Cripto.
 - [ ] Investigar Sockets Python.
 - [ ] Mockup Interfaz.
